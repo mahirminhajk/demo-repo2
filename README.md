@@ -7,4 +7,4 @@ Hello world this is my second git repo
 ### quick-test branch line this 
 ### this branch is added by master branch
 
- the bug as been fix and the quick test as been finshed 
+ this line is edited
