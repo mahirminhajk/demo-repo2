@@ -8,4 +8,8 @@ Hello world this is my second git repo
 ### this branch is added by master branch
 
  this line is edited
+<<<<<<< HEAD
  we gone added this line quick-test branch 11
+=======
+ we add this line thorugh master branch so plese in line 11
+>>>>>>> master
